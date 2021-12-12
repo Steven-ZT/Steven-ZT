@@ -18,4 +18,5 @@ func main() {
 	fmt.Println("this is 1")
 	fmt.Println("this is 2")
 	fmt.Println("this is 5")
+	fmt.Println("this is 6")
 }
