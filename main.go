@@ -24,5 +24,6 @@ func main() {
 	fmt.Println("11")
 	fmt.Println("22")
 	fmt.Println("33")
+	fmt.Println("44")
 
 }
