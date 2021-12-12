@@ -26,5 +26,9 @@ func main() {
 	fmt.Println("33")
 	fmt.Println("44")
 	fmt.Println("55")
+	fmt.Println("1111111")
+	fmt.Println("2222222")
+	fmt.Println("3333333")
+	fmt.Println("4444444")
 
 }
